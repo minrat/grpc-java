@@ -1,0 +1,11 @@
+
+This will cover the following situation:
+
+by design:---->
+1.	capture the status.
+2.	write into kafka server.
+
+
+testing design:
+1. 	ensure trigger trace action. 
+2.	get the information from kafka.

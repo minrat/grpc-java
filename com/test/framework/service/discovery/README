@@ -1,0 +1,3 @@
+Support the following situation:
+1.	To get information from Zookeeper Server first.
+2. 	If step-1 not works, get the information from local setting.

@@ -1,0 +1,42 @@
+
+00 - Greeter
+01 - Dinner
+02 - Drink
+03 - KTV
+04 - Entertainment
+05 - Pay
+06 - Bye
+
+
+Step-0:	Basic SP will run in the back-end.
+
+
+Action:	CS will run by your needs.
+
+It will cover the following situation:
+
+------------Function Testing：-------------------
+
+00         --- PASS
+
+
+01         --- PASS
+00-01      --- PASS
+00-01-06   --- PASS
+
+02         --- PASS
+
+03         --- PASS
+
+04         --- PASS
+
+05         --- PASS
+00-05-06   --- PASS
+
+
+06
+00-06      --- PASS
+00-02-06   ---
+00-03-06   ---
+
+------------ Testing：-------------------
